@@ -1,1 +1,19 @@
-# old-school-graphic-design
+-----------------------------
+| old-school-graphic-design |
+-----------------------------
+
+
+# power mac g4
+https://en.wikipedia.org/wiki/Power_Mac_G4
+
+# sgi indy
+https://en.wikipedia.org/wiki/SGI_Indy
+
+# adobe illustrator
+https://en.wikipedia.org/wiki/Adobe_Illustrator
+
+# adobe photoshop
+https://en.wikipedia.org/wiki/Adobe_photoshop
+
+# quarkxpress
+https://en.wikipedia.org/wiki/QuarkXPress
